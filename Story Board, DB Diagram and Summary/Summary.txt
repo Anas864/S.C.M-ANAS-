@@ -1,0 +1,20 @@
+Working Functions : 
+
+1-Add user
+2-Sign in 
+3-Add club
+4-update club Positions
+5-update club status 
+6-search for club info
+
+
+---------------------------------------------
+
+
+Missing functions : 
+1-Club list Report 
+2-Activity report 
+3-Club rep (Weely update)
+4-Club rep(Club Desc)
+5-Dashboard
+
